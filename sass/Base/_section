@@ -1,0 +1,28 @@
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+
+  &.fishki {
+  padding-bottom: 0px;
+}
+
+&-title {
+  color: $main-text-color;
+
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.2;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 50px;
+}
+
+&.bg {
+  background-color: #f5f4fa;
+}
+
+
+
+}
+
+

@@ -1,0 +1,38 @@
+.list-benefits {
+  display: flex;
+  margin: -15px;
+}
+
+.item.fishki {
+  width: calc((100% - 90px) / 4);
+  margin: 15px;
+}
+
+.item-container {
+  padding: 25px 100px;
+  height: 120px;
+  background-color: #f5f4fa;
+  border-radius: 4px;
+  margin-bottom: 30px;
+}
+.item-icon {
+  width: 70px;
+  height: 70px;
+}
+
+.benefits-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.benefits-text {
+  color: $secondary-text-color;
+
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  margin: 0px;
+}
